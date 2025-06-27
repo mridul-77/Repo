@@ -55,5 +55,9 @@ python manage.py migrate
 
 # Run the development server
 python manage.py runserver
+```
 Visit http://127.0.0.1:8000/ in your browser.
+## Contact Me
+
+Feel free to contact at strangemridul[@]gmail[dot]com
 
