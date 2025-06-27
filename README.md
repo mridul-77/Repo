@@ -6,7 +6,7 @@ This is a web-based **User Management Dashboard** built using **Django**, **HTML
 
 - Add new users with modal form
 - Edit existing user information
-- Delete users with confirmation
+- Delete existing users
 - Dynamic rendering of user data in table format
 - Clean and responsive UI with sidebar navigation
 - Built using Django views, templates, and models
@@ -34,7 +34,16 @@ This is a web-based **User Management Dashboard** built using **Django**, **HTML
 
 - Python 3.7+
 - pip
-- Virtual environment (recommended)
+
+Folder Structure
+user-management-django/
+├── app/                  # Django app with views, models, urls
+├── templates/            # HTML templates
+├── static/               # CSS/JS files
+├── manage.py
+├── db.sqlite3
+└── requirements.txt
+
 
 ### Installation
 
@@ -57,14 +66,3 @@ python manage.py migrate
 python manage.py runserver
 Visit http://127.0.0.1:8000/ in your browser.
 
-Folder Structure
-php
-Copy
-Edit
-user-management-django/
-├── app/                  # Django app with views, models, urls
-├── templates/            # HTML templates
-├── static/               # CSS/JS files
-├── manage.py
-├── db.sqlite3
-└── requirements.txt
