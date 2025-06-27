@@ -35,7 +35,7 @@ This is a web-based **User Management Dashboard** built using **Django**, **HTML
 - Python 3.7+
 - pip
 
-### Folder Structure
+## Folder Structure
 user-management-django/
 ├── app/                  # Django app with views, models, urls
 ├── templates/            # HTML templates
