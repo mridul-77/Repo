@@ -20,7 +20,7 @@ This is a web-based **User Management Dashboard** built using **Django**, **HTML
 ## Screenshots
 
 ### Dashboard View
-![Dashboard](screenshots/Screenshot 2025-06-28 025359.png)
+![Dashboard](screenshots/Screenshot_2025-06-28_025359.png)
 
 ### Edit User Modal
 ![Edit User](screenshots/Screenshot_2025-06-28_025419.png)
